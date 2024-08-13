@@ -37,7 +37,7 @@ img {
     padding: 0 2rem;
 }
 
-.container {
+.container-sm {
     max-width: 1000px;
     margin: 0 auto;
     padding: 0 2rem;
@@ -587,7 +587,7 @@ margin-bottom: 2rem;
     padding: 1.2rem 1rem;
   }
   
-  .contact-form textarea {
+  .contact-form .textarea {
     height: 200px;
   }
   
